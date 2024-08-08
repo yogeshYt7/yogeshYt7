@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Yogeswara Talari</h1>
 <h3 align="center">🔧 Proficient in Java, JavaScript, React.js, DevOps(AWS), HTML/CSS, and more. 🌱 Currently learning and exploring new technologies.</h3>
 
